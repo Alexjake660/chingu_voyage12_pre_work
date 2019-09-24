@@ -4,3 +4,5 @@ Add sub-directories
 Remove whitespace from top of navbar
 
 Add CSS and animation
+
+complete "How It Works Section"
